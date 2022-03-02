@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mishraabhyuday
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on Deep learning related projects
 
 <!---
